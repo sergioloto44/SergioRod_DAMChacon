@@ -1,1 +1,1 @@
-Este es un ejemplo para git.
+Este es un ejemplo para git. Y para github.
